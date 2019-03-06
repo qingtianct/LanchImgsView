@@ -1,0 +1,6 @@
+framework module LanchImgsView {
+  umbrella header "LanchImgsView-umbrella.h"
+
+  export *
+  module * { export * }
+}
